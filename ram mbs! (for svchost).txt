@@ -1,0 +1,5 @@
+2gb ram = 2048 mb
+4gb ram = 4096 mb
+8gb ram = 8192 mb
+12gb ram = 12288 mb
+16gb ram = 16384 mb

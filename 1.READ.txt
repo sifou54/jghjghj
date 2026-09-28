@@ -1,0 +1,18 @@
+1.win + r
+2.cmd
+3.powercfg -import (drag my powerplan to cmd window)
+4.press enter
+5.win + r
+6.control
+7.system and security
+8.power options
+9.select my powerplan
+10.choose what the power buttons do
+11.unckeck all
+12.exit control panel
+13.run Delete Stock Powerplans
+14.win + r
+15.control
+16.system and security
+17.power options
+18.delete rest of powerplans, ultimate performance etc
